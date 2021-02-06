@@ -3,6 +3,8 @@ h1{
       text-align: center;
       margin: 200px 0px 0px 0px;
       background-color: yellow;
+      width: 100px;
+      height: 30px;
 }
 p{
       text-align: right;
